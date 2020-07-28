@@ -20,7 +20,10 @@ DIRECTORIES = {
     "PYTHON": [".py"], 
     "XML": [".xml"], 
     "EXE": [".exe"], 
-    "SHELL": [".sh"] 
+    "SHELL": [".sh"],
+    "PHOTOSHOP DOCUMENTS": [".psd"],
+    "PREMIERE PRO DOCUMENTS": [".prproj"],
+    "AFTER EFFECTS PROJECT": [".aep"]
   
 } 
   
