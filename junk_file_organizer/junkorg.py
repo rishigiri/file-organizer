@@ -1,6 +1,6 @@
 import os 
 from pathlib import Path 
-
+#dictionary for different file folder names for their corresponding file type. Add more as per your requirements.
 DIRECTORIES = { 
     "HTML": [".html5", ".html", ".htm", ".xhtml"], 
     "IMAGES": [".jpeg", ".jpg", ".tiff", ".gif", ".bmp", ".png", ".bpg", "svg", 
@@ -23,7 +23,10 @@ DIRECTORIES = {
     "SHELL": [".sh"],
     "PHOTOSHOP DOCUMENTS": [".psd"],
     "PREMIERE PRO DOCUMENTS": [".prproj"],
-    "AFTER EFFECTS PROJECT": [".aep"]
+    "AFTER EFFECTS PROJECT": [".aep"],
+    "JAVASCRIPT": [".js"],
+    "JAVA": [".java",".jar",".jad"],
+    "C++": [".cpp"]
   
 } 
   
